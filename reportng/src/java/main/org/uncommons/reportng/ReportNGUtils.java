@@ -319,6 +319,24 @@ public class ReportNGUtils
         {
             return null;
         }
+
+        if (s.contains("hqhqhqhqhq")){
+            String s1 = s.replace("hqhqhqhqhq", "");
+            StringBuilder buffer = new StringBuilder();
+            for(int i = 0; i < s1.length(); i++)
+            {
+                char ch = s1.charAt(i);
+                switch (ch)
+                {
+                    case '\n':
+                        buffer.append("<br/>\n");
+                        break;
+                    default:
+                        buffer.append(ch);
+                }
+            }
+            return buffer.toString();
+        }
         
         StringBuilder buffer = new StringBuilder();
         for(int i = 0; i < s.length(); i++)
