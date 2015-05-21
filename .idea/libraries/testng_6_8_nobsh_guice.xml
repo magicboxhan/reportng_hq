@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="testng-6.8-nobsh-guice">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/compiletime/testng/testng-6.8-nobsh-guice.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

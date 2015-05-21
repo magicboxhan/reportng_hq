@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="cobertura">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/compiletime/cobertura/asm-tree-4.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/compiletime/cobertura/asm-commons-4.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/compiletime/cobertura/asm-4.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/compiletime/cobertura/oro-2.0.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/compiletime/cobertura/asm-analysis-4.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/compiletime/cobertura/cobertura-2.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/compiletime/cobertura/log4j-1.2.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/compiletime/cobertura/asm-util-4.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
